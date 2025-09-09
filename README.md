@@ -25,26 +25,28 @@ git clone https://github.com/Varsh345/PDF-Chatbot-using-Zephyr-LLM
 2. **Open in Google Colab**  
 Open the provided `.ipynb` notebook in Google Colab.
 3. **Install Dependencies**
-```!pip install langchain chromadb gradio```
-4. **Model Initialization**  
+```bash
+!pip install langchain chromadb gradio
+```
+5. **Model Initialization**  
 Follow notebook instructions to load Zephyr 7B Alpha.
-5. **Start Chatting**  
+6. **Start Chatting**  
 Use the Gradio interface to upload PDFs and begin querying!
 
-### Code Overview
+** Code Overview **
 - `file_preprocessing(file)`: Parses and chunks PDF content.  
 - `llm_pipeline(filepath)`: Handles conversational queries using Zephyr 7B Alpha.  
 - `displayPDF(file)`: Preview PDF in the UI.  
 - `main()`: Orchestrates the Gradio interface and user interaction.  
 
-### Screenshots
-#### Interface 
+** Screenshots **
+** Interface **
 <img width="1343" height="621" alt="Screenshot 2025-09-09 181755" src="https://github.com/user-attachments/assets/58ee22e2-cfd0-4e5d-9867-9fb3331432c5" />
 
-#### Answering View
+** Answering View **
 <img width="687" height="500" alt="Screenshot 2025-09-09 182202" src="https://github.com/user-attachments/assets/174673b8-4c50-49da-81aa-4600d1aa48c3" />
 
-### Contact & Resources
+** Contact & Resources **
 - LangChain Documentation  
 - Zephyr 7B Alpha @ HuggingFace  
 - For questions, contact via GitHub issues.
