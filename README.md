@@ -40,6 +40,7 @@ Use the Gradio interface to upload PDFs and begin querying!
 - `main()`: Orchestrates the Gradio interface and user interaction.  
 
 📸 **Screenshots**
+
 **Interface**
 <p align="center"> <img width="80%" src="https://github.com/user-attachments/assets/58ee22e2-cfd0-4e5d-9867-9fb3331432c5" alt="Interface Screenshot"/> </p>
 
