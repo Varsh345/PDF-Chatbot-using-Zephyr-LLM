@@ -45,7 +45,9 @@ Use the Gradio interface to upload PDFs and begin querying!
 <p align="center"> <img width="80%" src="https://github.com/user-attachments/assets/58ee22e2-cfd0-4e5d-9867-9fb3331432c5" alt="Interface Screenshot"/> </p>
 
 **Answering View**
-<p align="center"> <img width="60%" src="https://github.com/user-attachments/assets/174673b8-4c50-49da-81aa-4600d1aa48c3" alt="Answering Screenshot"/> </p>
+<p align="center">
+  <img width="80%" src="https://github.com/user-attachments/assets/ec3267b0-6731-4831-b7a1-aea714bc8221" alt="Answering Screenshot"/>
+</p>
 
 📬 **Contact & Resources**
 - LangChain Documentation  
