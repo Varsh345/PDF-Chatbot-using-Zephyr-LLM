@@ -11,16 +11,17 @@ PDF-Chatbot-using-Zephyr-LLM transforms static documents into dynamic conversati
 - **Easy UI:** Gradio web interface for intuitive chats.  
 
 🧰 **Tech Stack**  
-- Zephyr 7B Alpha  
-- LangChain  
-- ChromaDB  
-- Gradio  
-- Google Colab  
+- **Zephyr 7B Alpha:** Advanced language model for conversational AI.  
+- **LangChain:** Framework for managing documents and conversations.  
+- **ChromaDB:** Fast vector database for storing text embeddings.  
+- **Gradio:** Creates interactive web UIs for ML models.  
+- **Google Colab:** Cloud platform for running Python notebooks with free GPUs. 
 
 🏁 **Setup & Usage**  
-
 1. **Clone Repository**
+```bash
 git clone https://github.com/Varsh345/PDF-Chatbot-using-Zephyr-LLM
+```
 2. **Open in Google Colab**  
 Open the provided `.ipynb` notebook in Google Colab.
 3. **Install Dependencies**
@@ -39,6 +40,7 @@ Use the Gradio interface to upload PDFs and begin querying!
 ### Screenshots
 #### Interface 
 <img width="1343" height="621" alt="Screenshot 2025-09-09 181755" src="https://github.com/user-attachments/assets/58ee22e2-cfd0-4e5d-9867-9fb3331432c5" />
+
 #### Answering View
 <img width="687" height="500" alt="Screenshot 2025-09-09 182202" src="https://github.com/user-attachments/assets/174673b8-4c50-49da-81aa-4600d1aa48c3" />
 
